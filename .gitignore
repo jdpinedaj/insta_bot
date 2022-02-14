@@ -1,0 +1,8 @@
+# notebooks
+*.ipynb
+
+# credentials
+credentials_juan.txt
+
+__pycache__
+
