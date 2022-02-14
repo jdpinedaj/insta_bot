@@ -4,5 +4,6 @@
 # credentials
 credentials_juan.txt
 
-__pycache__
+# cache
+__pycache__/
 
