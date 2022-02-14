@@ -6,16 +6,18 @@ This bot can be used to increase dozens of followers every day.
 The bot search random posts on Instagram using a list of defined hastags, and then, it will like and comment the post, and follow the author. Later, many users will follow you back.
 
 ## How to use  insta_bot
+
 ### 1. Prerequisites
 To be able to run this little bot, you need to have:
 * [Python](https://www.python.org/downloads/)
 * [Selenium](https://selenium-python.readthedocs.io/installation.html)
 * [Chromedriver](http://chromedriver.chromium.org)
 * Google Chrome (English version)
+
 ### 2. Configuration
 After simply downloading this repository, open **config.py** , you’ll have to change some lines, considering the hashtags you want to use and the custom comments you would like to post.
 
-Then, you have to create the file **credentials.py** and create three values:
+Then, you have to modify the file **credentials.py** and create three values:
 
     USERNAME = "your_username"
     PASSWORD = "your_password*"
